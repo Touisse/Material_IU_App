@@ -8,7 +8,6 @@ const useStyles = makeStyles({
     left: "0px",
     width: "320px",
     height: "100%",
-    backgroundColor: "beige",
   },
 });
 const SideMenu = () => {
